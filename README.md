@@ -12,7 +12,7 @@ Source: (Kaggle Custom dataset)
 
 https://www.kaggle.com/datasets/mdnazmussadat1/breast-cancer 
 
-# Feature Importance 
+# Feature
 
 Using the Random Forest model, we identified key features influencing breast cancer diagnosis. The most impactful features include several tumor markers (CEA, CA125, CA153), blood indicators (Platelet_Count, WBC_Count, CRP, LDH), and patient characteristics (Age, Tumor_Size_mm, BMI).These insights highlight the critical factors associated with diagnosis in this dataset, offering potential avenues for further clinical investigation and targeted interventions.
 
