@@ -4,7 +4,7 @@ Breast Cancer Prediction using machine learning techniques to classify tumors as
 # Overview
 This project uses machine learning to detect breast cancer from patient diagnostic features
 
-Objective
+# Objective
 To build a predictive model that can accurately identify patients at risk of breast cancer on clinical data.
 
 # Dataset
